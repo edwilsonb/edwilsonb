@@ -6,8 +6,6 @@
 ### Sobre
 
 * 🎓 Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas - IFPB
-* 🔁 Consultor júnior na empresa <a href="https://loopisjr.com.br/" target="_blank" rel=”noopener”>Loopis Soluções Tecnológicas</a>
-
 
 ### Aprendendo sobre 🔍
 * Java
