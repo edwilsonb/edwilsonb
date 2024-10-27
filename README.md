@@ -11,6 +11,7 @@
 * Java
 * Banco de dados
 * HTML, CSS e JavaScript
+* React Native
 
 ##
 
