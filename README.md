@@ -7,12 +7,12 @@ Recém-formado em **Análise e Desenvolvimento de Sistemas** pelo **IFPB** (Inst
 ### 💻 Tecnologias e Ferramentas 🛠️
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript,html,css,nodejs,react,postgresql,git,linux" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript,typescript,html,css,nodejs,react,postgresql,git,linux" alt="Linguagens" />
 </p>
 
 Aqui estão algumas das tecnologias com as quais já tive contato ou venho estudando:
 
-* **Linguagens:** C, JavaScript, Java, Python, C#
+* **Linguagens:** C, JavaScript/TypeScript, Java, Python, C#
 * **Front-end:** HTML, CSS, React, React Native
 * **Back-end:** Node.js
 * **Banco de Dados & Outros:** SQL, PostgreSQL, Git, Linux
