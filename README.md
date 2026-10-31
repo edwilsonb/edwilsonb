@@ -26,11 +26,10 @@ Aqui estão algumas das tecnologias com as quais já tive contato ou venho estud
 
 ---
 
-### 📊 Estatísticas do GitHub 📈
+### 📊 Linguagens mais usadas 📈
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwilsonb&theme=tokyonight" alt="Estatísticas dos commits" />
-  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=edwilsonb&layout=compact&langs_count=4&theme=tokyonight" alt="Linguagens mais utilizadas" />
+<div align="left">
+  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=edwilsonb&layout=compact&langs_count=4&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
